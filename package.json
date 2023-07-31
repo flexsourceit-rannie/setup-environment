@@ -1,7 +1,7 @@
 {
-  "name": "mouse",
+  "name": "setup-environment",
   "version": "0.1.0",
-  "description": "Move your mouse digitally",
+  "description": "setup environment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,21 +11,8 @@
     "mouse": "index.js"
   },
   "type": "module",
-  "keywords": [
-    "mouse",
-    "robotjs"
-  ],
-  "author": "Jay Are Galinada <jayaregalinada@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jayaregalinada/mouse.git"
-  },
   "license": "MIT",
   "dependencies": {
     "robotjs": "^0.6.0"
-  },
-  "bugs": {
-    "url": "https://github.com/jayaregalinada/mouse/issues"
-  },
-  "homepage": "https://github.com/jayaregalinada/mouse"
+  }
 }
